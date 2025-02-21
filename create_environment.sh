@@ -12,14 +12,14 @@ mkdir -p app modules assets config
 
 cat > assets/submissions.txt <<EOL
 Chinemerem, Shell Navigation, not submitted
-Chiagoziem, Git, submitted
+Chiagoziem, Shell Navigation, submitted
 Divine, Shell Navigation, not submitted
-Anissa, Shell Basics, submitted
-Davy, Emacs, submitted
-George, vi, not submitted
-Mac, Shell permissions, submitted
-Samuel, Shell redirections, not submitted
-Kate, Shell processes and signals, submitted
+Anissa, Shell Navigation, not submitted
+Davy, Shell Navigation, submitted
+George, Shell Navigation, not submitted
+Mac, Shell Navigation, submitted
+Samuel, Shell Navigation, not submitted
+Kate, Shell Navigation, submitted
 EOL
 
 cat > config/config.env <<EOL
